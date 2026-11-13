@@ -1,8 +1,6 @@
-# Hey, I'm Ben
-Thanks for stopping by!
+# Hey, I'm Ben 😄
 
-I'm a Computer Engineering student at UC Davis interested in full-stack development, embedded systems, and building software that runs on real hardware.
-
+I'm a Computer Engineering student at UC Davis interested in full-stack development, embedded systems, and building software that is useful and efficient.
 ## What I Work With
 ### Languages
 - C++ / C
